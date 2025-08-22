@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋, I'm Marwin Dalin
+📋 Detailed Info
+📂 Portfolio: https://mrwn10.github.io/personal-portfolio/index.html
 
-<!--
-**mrwn10/mrwn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 About Me
+🎓 BSIT Student at Laguna State Polytechnic University
+💻 Currently focusing on Web Development and IT Support
+🎯 My Goal is to become a Successful IT Professional
+🛠️ Interested in Web Development, IT Support, and Building & Maintaining PCs
 
-Here are some ideas to get you started:
+🤝 Connect with Me
+📘 Facebook: https://www.facebook.com/marwin.dalin.94
+💼 LinkedIn: https://www.linkedin.com/in/marwin-dalin-29a924278/
+🐙 GitHub: https://github.com/mrwn10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
